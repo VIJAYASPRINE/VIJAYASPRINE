@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VIJAYASPRINE
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m Moving towards ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
